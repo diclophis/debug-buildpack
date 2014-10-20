@@ -1,0 +1,7 @@
+#!/bin/sh
+
+BUILD_DIR=$1
+
+echo debug $BUILD_DIR
+
+exit 0
