@@ -2,6 +2,6 @@
 
 BUILD_DIR=$1
 
-echo debug $BUILD_DIR
+echo debug
 
 exit 0
